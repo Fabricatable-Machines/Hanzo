@@ -1,13 +1,13 @@
 # Hanzo - large format 3D printer and machining center
 
 
-*by Jens Dyvik, 2021*
+*by Jens Dyvik, August 2021 - ongoing*
 
-![](img/.JPG)
+![](img/hazno-structural-parts-assembled1.JPG)
 
 ### Project status
 
- - Currently under development. First parts have been made, but nothing tested yet.
+ - Currently under development. The main structure is complete, but nothing tested yet.
  
 ### Support
 
