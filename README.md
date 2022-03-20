@@ -3,6 +3,8 @@
 
 *by Jens Dyvik, August 2021 - ongoing*
 
+![](img/hanzo-perspective1920.png)
+
 ![](img/hazno-structural-parts-assembled1.JPG)
 
 ### Project status
@@ -61,3 +63,8 @@ October 2021
  - Nema23 gear is nema24 width (60mm) Tuning screw holder came too close to motor to allow pinion to completely disengage rack
  - Slot on gearbox does not run deep enough. Pinion protrudes more than planned. Tricky to solve becuse set screws need meat to sit in. Maybe skip using slot and rotate pinion 60 degrees?
  - double nut hack got too wide and the pinion set screws crshes into it. Needs s relief flot the diemter of the pinion set screw stickout +
+ 
+ January-March 2022
+ 
+ - Finished bed
+ - Fabbed and assembled gantry and Z towers
