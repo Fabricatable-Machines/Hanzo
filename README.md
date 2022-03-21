@@ -10,18 +10,13 @@
 ### Project status
 
  - Currently under development. The main structure is complete, but nothing tested yet.
- 
-### Support
-
- - If you appreciate this project you can support me on [Patreon](https://www.patreon.com/jensdyvik)
- - If you have design ideas and feedabck, pull requests and git issues are most welcome
 
 ### What
 
  - A cartesian machine with a 3m x 1,4m x 1,5m work area
- - Able to print rough and fast with the[Pellatis - pellet extruder](https://tobben.gitlab.io/pellatis/) that we are developing
+ - Able to print rough and fast with the [Pellatis - pellet extruder](https://tobben.gitlab.io/pellatis/) that we are developing
  - With a toolchanger system
- - With dual pinion drive for electronic pretension *(less backlash, but higher cost and complexity)*
+ - With 3D printed helical pinions and integrated machined helical racks
  - Tailor made to experiment with automation and machine making
  
 ### Why
@@ -41,6 +36,11 @@
  - I am designing Hanzo in [Freecad]() *(free and open CAD software)*
  - I work in the open and publish and update the files in the [project folder](https://github.com/fellesverkstedet/fabricatable-machines/tree/master/hanzo-research-platform) of this repo
  - I also export .step files from freecad to the the [project folder](https://github.com/fellesverkstedet/fabricatable-machines/tree/master/hanzo-research-platform) that you can import into programs like Fusion360, Solidworks, Rhino etc.
+
+### Support
+
+ - If you appreciate this project you can support me on [Patreon](https://www.patreon.com/jensdyvik)
+ - If you have design ideas and feedabck, pull requests and git issues are most welcome
 
 
 ### Log:
@@ -68,3 +68,8 @@ October 2021
  
  - Finished bed
  - Fabbed and assembled gantry and Z towers
+
+
+### Attributions
+
+ - Duet2 mounting plate by Mjolk https://www.thingiverse.com/thing:3525628/files
