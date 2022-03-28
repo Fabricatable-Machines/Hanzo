@@ -7,6 +7,8 @@
 
 ![](img/hazno-structural-parts-assembled1.JPG)
 
+![](img/z-tower-milling-rack-mating-surface-threaded-holes.JPG)
+
 ### Project status
 
  - Currently under development. The main structure is complete, but nothing tested yet.
