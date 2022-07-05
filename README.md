@@ -9,9 +9,11 @@
 
 ![](img/z-tower-milling-rack-mating-surface-threaded-holes.JPG)
 
+![](img/hanzo-first-test-print.JPG)
+
 ### Project status
 
- - Currently under development. The main structure is complete, but nothing tested yet.
+ - Currently under development. **Warning:** This experimental project is not reccomended to reproduce, but the files can be used as a design reference.
 
 ### What
 
