@@ -3,13 +3,20 @@
 
 *by Jens Dyvik, August 2021 - ongoing*
 
-![](img/hanzo-perspective1920.png)
+![](img/hanzo-printing-a-bust-1.JPG)
+*Eearly test print of a 3D scan*
 
-![](img/hazno-structural-parts-assembled1.JPG)
+![](img/hanzo-perspective1920.png)
+*The design plan*
 
 ![](img/z-tower-milling-rack-mating-surface-threaded-holes.JPG)
+*Milling parts for Hanzo on a ShopBot*
 
-![](img/hanzo-first-test-print.JPG)
+![](img/hazno-structural-parts-assembled1.JPG)
+*Main structure assembled*
+
+![](img/hanzo-miiling-machine-parts-for-humphrey2.JPG)
+*Milling parts for [Humphrey2](https://github.com/Fabricatable-Machines/humphrey2) on Hanzo*
 
 ### Project status
 
