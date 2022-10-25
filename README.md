@@ -4,7 +4,7 @@
 *by Jens Dyvik, August 2021 - ongoing*
 
 ![](img/hanzo-printing-a-bust-1.JPG)
-*Eearly test print of a 3D scan*
+*Early test print of a 3D scan*
 
 ![](img/hanzo-perspective1920.png)
 *The design plan*
@@ -20,7 +20,7 @@
 
 ### Project status
 
- - Currently under development. **Warning:** This experimental project is not reccomended to reproduce, but the files can be used as a design reference.
+ - Currently under development. **Warning:** This experimental project is not recommended to reproduce, but the files can be used as a design reference.
 
 ### What
 
@@ -62,15 +62,15 @@ August 2021
  
 October 2021
 
- - Too tight fit at ears on gantry gantry backplate (no tolerence, facepalm). Resorted to sandin. To do: add cleaance in CAD
- - Forgot to mill some pocket slots on gantry backsie (struggeled with freecad step export)
+ - Too tight fit at ears on gantry gantry backplate (no tolerence, facepalm). Resorted to sanding. To do: add cleaance in CAD
+ - Forgot to mill some pocket slots on gantry backsie (struggled with freecad step export)
  - Drilling ended up not entirely in center of slots
  - Whashers go over edge. to do check for collsions in CAD!
  - Array of threaded holes are missing in x axis plate.
  - One screw in upper bearing block is maybe too close
  - Hacked pocket and moved slots for gearbox
  - Large M5 whasers protrude over the edge. Uese button heads crews instead?
- - Forgeot to offset motor protrusion slot to fit larger gearbox protrusion (fixe with 12mm offset and remill)
+ - Forgot to offset motor protrusion slot to fit larger gearbox protrusion (fixe with 12mm offset and remill)
  - Nema23 gear is nema24 width (60mm) Tuning screw holder came too close to motor to allow pinion to completely disengage rack
  - Slot on gearbox does not run deep enough. Pinion protrudes more than planned. Tricky to solve becuse set screws need meat to sit in. Maybe skip using slot and rotate pinion 60 degrees?
  - double nut hack got too wide and the pinion set screws crshes into it. Needs s relief flot the diemter of the pinion set screw stickout +
@@ -79,8 +79,29 @@ October 2021
  
  - Finished bed
  - Fabbed and assembled gantry and Z towers
+ 
+ April 2022
+ - Assembled structure
+ 
+ May-June 2022
+ - Electronics wiring and tidying up
+ - Broke helical rack teeth on Z axis during testing
+ 
+ August 2022
+ - Retrofitted CNC friendly rack and pinion to Z axis
+ 
+ September 2022
+ - Milled out [Humphrey2](https://github.com/Fabricatable-Machines/humphrey2) on Hanzo
+
+October 2022 
+ - Test printing
 
 
 ### Attributions
 
  - Duet2 mounting plate by Mjolk https://www.thingiverse.com/thing:3525628/files
+
+### License
+
+Creative Commons Attribution-ShareAlike
+http://creativecommons.org/licenses/by-sa/4.0/
