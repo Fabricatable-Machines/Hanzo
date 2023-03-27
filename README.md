@@ -18,6 +18,9 @@
 ![](img/hanzo-miiling-machine-parts-for-humphrey2.JPG)
 *Milling parts for [Humphrey2](https://github.com/Fabricatable-Machines/humphrey2) on Hanzo*
 
+![](img/fabricatable-machines-second-gen-family-tree.png)
+*Machine family tree. Hanzo succesully made the first [Humphrey2](https://github.com/Fabricatable-Machines/humphrey2) prototype, which again could replicate itself with acceptable precicion.*
+
 ### Project status
 
  - Currently under development. **Warning:** This experimental project is not recommended to reproduce, but the files can be used as a design reference.
